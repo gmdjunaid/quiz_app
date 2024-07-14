@@ -10,8 +10,6 @@ This is a Quiz Application built using Flutter and Dart. The application provide
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [File Structure](#file-structure)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Features
 
