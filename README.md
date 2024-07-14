@@ -1,5 +1,3 @@
-Sure, I'll add the new file `start_screen.dart` into the README:
-
 # Quiz Application
 
 This is a Quiz Application built using Flutter and Dart. The application provides a simple and interactive platform for users to take a quiz on basic Flutter information and receive feedback on their performance.
